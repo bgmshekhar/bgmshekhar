@@ -12,4 +12,4 @@ The addon uses your Google Drive credentials to upload Blender files to your Goo
 
 ## Contact
 
-If you have any questions about this Privacy Policy, please contact us at yourname@example.com.
+If you have any questions about this Privacy Policy, please contact us at csy230129@gmail.com.
