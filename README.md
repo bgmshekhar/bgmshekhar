@@ -1,15 +1,11 @@
-# Privacy Policy
+# Hi, I'm Chandra Shekhar Yadav👋
+- 🔭 I’m currently working on The
+- 🌱 I’m learning Cyber Security
+- ⚡ Fun fact: I am also a 3d artist.
 
-This Privacy Policy explains how your data is used by the Blender Drive Upload addon.
+## 🚀 Skills
+- **Languages**: Python, JavaScript,  etc.
+- **Tools**: Docker, Kubernetes, etc.
 
-## Data Collection
+## 📊 GitHub Stats
 
-The addon does not collect any personal data from users. It only interacts with your Google Drive to upload files as specified by the user.
-
-## Data Usage
-
-The addon uses your Google Drive credentials to upload Blender files to your Google Drive account. No data is shared with third parties.
-
-## Contact
-
-If you have any questions about this Privacy Policy, please contact us at csy230129@gmail.com.
